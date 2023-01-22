@@ -20,12 +20,11 @@ Because i was using the Flask framework i imported SqlAlchemy so that i can use 
 
 # Useful Websites
 
-- [Web Site Name](https://www.tutorialspoint.com/sqlalchemy/index.htm)
-- [Web Site Name](https://flask.palletsprojects.com/en/2.2.x/quickstart/#a-minimal-application)
-- [Web Site Name](https://jinja.palletsprojects.com/en/3.1.x/))
+- [SQL ALchemy Tutorials Point](https://www.tutorialspoint.com/sqlalchemy/index.htm)
+- [Flask](https://flask.palletsprojects.com/en/2.2.x/quickstart/#a-minimal-application)
+- [Jinja](https://jinja.palletsprojects.com/en/3.1.x/))
 
 # Future Work
 
 - Make my website look more visually appealing by using CSS for more styling
-- Item 2
-- Item 3
+- Add the Year the book was published or the year i read the book 
