@@ -1,0 +1,27 @@
+body{
+    background-color: aliceblue;
+    line-height: 3.5rem;  
+}
+
+a{
+    margin-left: 1.5rem;
+    margin-right: 1.5rem;
+    border-style: ridge;
+    border-radius: 2.5rem;
+    padding: .5rem;
+}
+a:link { text-decoration: none; }
+
+a:visited { text-decoration: none; }
+
+a:hover { text-decoration: none; background-color: red;}
+
+a:active { text-decoration: none; }
+
+ol{
+    border-style: ridge;
+}
+
+li{
+    font-size: larger;
+}
