@@ -13,7 +13,8 @@ I created this quiz app because i love soccer, so i decided to create questions 
 
 
 I used Kotlin and Android Studio. I also used xml code to
-structure the application and create my custom layout. 
+structure the application and create my custom layout. I also used an AVD,
+which is a virtual machine, it helped me to test my quiz application on a virtual device. 
 
 # Useful Websites
 
