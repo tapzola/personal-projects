@@ -2,7 +2,7 @@
 
 
 I created a quiz application. This application will interact with the user by prompting the user to input an answer to a question and checks if its correct. If the answer is correct it will highlight the answer green to show that’s its correct, When the answer is wrong, it will highlight
-the answer red, and show the correct anwser highlighted in green. 
+the answer red, and show the correct anwser highlighted in green. After that it will prompt the user to go to the next question and the process repeats until it reaches question 10. When the user has answered all questions a result page comes up that shows the user how much they got out of the 10 questions.
 
 
 I created this quiz app because i love soccer, so i decided to create questions to see the knowlwdge people have about basic soccer questions about popular soccer players. 
