@@ -19,7 +19,7 @@ structure the application and create my custom layout.
 
 {Make a list of websites that you found helpful in this project}
 * [Android Studio](https://developer.android.com/studio)
-* [Kotlin](https://kotlinlang.org/docs/home.html
+* [Kotlin](https://kotlinlang.org/docs/home.html)
 
 # Future Work
 
