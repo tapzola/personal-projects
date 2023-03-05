@@ -5,12 +5,12 @@ I created a virtual  coffee machine program that is coin operated, can make 3 fl
 I wrote this software to demonstrate my competency in understanding the C# language. 
 
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://www.loom.com/share/8e51ae53cdeb4184a414706f1f482351)
 
 # Development Environment
 
 I used Visual Studio as my IDE to write this code. I used C# language to create this software.
-s a modern, object-oriented, and type-safe programming language. C# enables developers to build many types of secure and robust applications that run in .NET. C# has its roots in the C family of languages and it is familiar to C, C++, Java, and JavaScript languages. 
+It is a modern, object-oriented programming language. C# enables developers to build many types of secure and robust applications that run in .NET. C# has its roots in the C family of languages and it is familiar to C, C++, Java, and JavaScript languages. 
 
 # Useful Websites
 
